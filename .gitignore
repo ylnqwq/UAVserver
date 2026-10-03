@@ -1,0 +1,29 @@
+# 依赖与构建产物
+node_modules/
+dist/
+target/
+build/
+*.jar
+*.war
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# 日志与临时文件
+logs/
+*.log
+*.tmp
+
+# 本地环境配置
+.env
+.env.local
+*.local
+
+# 系统文件
+Thumbs.db
+.DS_Store
